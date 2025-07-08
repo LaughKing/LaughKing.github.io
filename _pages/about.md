@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c702604d-56c1-4e08-9955-a3f6f7577262)---
+
 permalink: /
 title: "Welcome to Xiaohan's website!"
 author_profile: true
