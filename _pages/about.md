@@ -8,9 +8,13 @@ redirect_from:
 ---
 
 I'm a second year undergraduage student from [Huazhong University of Science and Technology](https://www.hust.edu.cn/).My research interest includes NLP,Agents and Reinforcement Learning.
+
 I am very fortunate to be advised by [Prof.Shuhao Zhang](https://shuhaozhangtony.github.io/) of [intellistream lab](https://intellistream.github.io/) from [School of Computer Science](https://cs.hust.edu.cn/),HUST.In the past few months,I participate in the design and development of the core Memory system for the SAGE, a Streaming-Augmented Generative Execution framework.
 
-[Email](mailto:shawn_wang@hust.edu.cn) | [Github](https://github.com/LaughKing) | [Wechat]:wxhoszl
+You can find my CV here:[Xiaohan Wang](../assets/Curriculum_Vitae.pdf).
+[Email](mailto:shawn_wang@hust.edu.cn) | [Github](https://github.com/LaughKing) | [Wechat]:（../images/wechat.png)
+
+
 
 A data-driven personal website
 ======
