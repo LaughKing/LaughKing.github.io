@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : (me.png)
+  avatar           : "me.png"
   name             : "Xiaohan Wang(王笑涵)"
   pronouns         : # example: "she/her"  
   bio              : ""
