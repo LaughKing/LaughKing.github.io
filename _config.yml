@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Xiaohan"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "me.png"
   name             : "Xiaohan Wang(王笑涵)"
   pronouns         : # example: "she/her"  
-  bio              : "a good buddy,basketball and football lover"
+  bio              : ""
   location         : "Wuhan,China"
   employer         : "Huazhong University of Science and Technology"
   uri              : # URL
