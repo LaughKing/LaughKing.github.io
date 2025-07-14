@@ -12,11 +12,11 @@ main:
     url: /publications/
 
     
-  - title: "CV"
-    url: /cv/
-    
   # - title: "CV"
-  #   url: /cv-json/
+  #   url: /cv/
     
-  - title: "Personal"
-    url: /markdown/
+  # # - title: "CV"
+  # #   url: /cv-json/
+    
+  # - title: "Personal"
+  #   url: /markdown/
